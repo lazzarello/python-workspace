@@ -1,0 +1,19 @@
+# Devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+
+# workspace state
+.state/
+config/ipython/profile_default/db/
+config/ipython/profile_default/log/
+config/ipython/profile_default/pid/
+config/ipython/profile_default/security/
+config/ipython/profile_default/startup/README
+config/jupyter/migrated
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
